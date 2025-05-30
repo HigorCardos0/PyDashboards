@@ -4,7 +4,6 @@ import pandas as pd
 
 # Criano nossa "aplicação" e colocando-a em uma váriavel para referencia-la
 app = Dash()
-
 # Adicionamos nossa base de dados dentro de uma váriavel para referncia-la
 df = pd.read_excel("Vendas.xlsx")
 
