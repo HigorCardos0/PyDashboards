@@ -1,5 +1,18 @@
-# PyDashboards
+## PyDashboards
 Criando Dashboards com Python
+
+# Instalando principais dependências
+  - Vscode
+    https://code.visualstudio.com/download
+
+  - Git
+    https://git-scm.com/downloads
+
+  - PIP 
+    No Vscode rodar o comando >> pip install pip
+
+  - Extensão Python para VSCode: 
+    Instale a extensão oficial do Python no VSCode para suporte a linting, IntelliSense e execução de código.
 
 # Clonar o projeto 
 
@@ -10,7 +23,7 @@ Criando Dashboards com Python
   - Acessar o Github clicar em "Code" e copiar a URL
   - No CMD no caminho da sua pasta local usar o comando >> git clone + url (Copiada em "Code" no Github)
 
-# Instalando dependências
+# Instalando dependências para criar Dashboards
 
  - No Vscode abre o terminal
   - use o comando "pip install dash"
