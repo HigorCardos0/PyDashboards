@@ -23,8 +23,7 @@ Criando Dashboards com Python
   - Acessar o Github clicar em "Code" e copiar a URL
   - No CMD no caminho da sua pasta local usar o comando >> git clone + url (Copiada em "Code" no Github)
   - Abra o Vscode 
-  - Já no Vscode após abrir seu diretório usar o comando abaixo
-  ## git checkout branch-test
+  - Já no Vscode após abrir seu diretório usar o comando >> git checkout branch-test
 
 # Instalando dependências para criar Dashboards
 
