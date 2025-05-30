@@ -6,7 +6,7 @@ Criando Dashboards com Python
  - Criar uma pasta local
   - Copiar o caminho da pasta
   - Acessar o CMD
-  - Acessar a pasta local que você criou e usar o comando cd + caminho da pasta local
+  - Acessar a pasta local que você criou e usar o comando >> cd + caminho da pasta local
   - Acessar o Github clicar em "Code" e copiar a URL
   - No CMD no caminho da sua pasta local usar o comando >> git clone + url (Copiada em "Code" no Github)
 
