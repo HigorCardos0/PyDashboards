@@ -22,7 +22,7 @@ app.layout = html.Div(children=[
     # Utilizamos a nossa "aplicação" como referência e utilizamos a função layout para criarmos uma DIV em html                                          
     html.H1(children='Faturamento das lojas'),
     # Ja dentro da nossa DIV em html criamos um H1 (Titulo) e com a palavra reservada children passamos uma "string" como sendo o titulo do texto
-    html.H2(children='grafico com o faturamento de todos os produtos separados por lojas'),
+    html.H2(children='grafico com total de produtos vendidos separados por lojas'),
     # Criamos uma segunda DIV e passamos a ela uma "string" como sendo nosso texto
     html.Div(id = "div_texto"),
 
